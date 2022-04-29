@@ -11,6 +11,7 @@ A6 | End of tutorial, time for next act
 B1 | Hiragana
 B2 | 
 
+-some kind of arrows/signs/symbols next to numbers in lines of source code which u gotta translate to something
 -after split, level where u need both images from the same level (so like A3 & B3) to solve - maybe an overlay of both, maybe smt helse
 -level w/ tempend image that says (congratulations you've reached the end?) or smth like that but its not acc the end (also no level num, just use "?")
 -one level will be the path choice
