@@ -1,0 +1,42 @@
+[ACT 0 - TUTORIAL]
+A1 | Enter by pressing screen
+A2 | URL says "whatisoneplustwo.htm" - and you gotta change it to three.htm
+A3 | URL says "whosaidthisquote.htm" - quote somewhere in the level that needs to be googled
+A4 | URL says "whatisthisnumber.htm" - need a new SOURCE  of information - find hints for which color is which number in source
+A5 | Neptune Level - something wrong with the image name? fix it
+A6 | End of tutorial, time for next act
+
+
+[ACT 1]
+B1 | Hiragana
+B2 | 
+
+-after split, level where u need both images from the same level (so like A3 & B3) to solve - maybe an overlay of both, maybe smt helse
+-level w/ tempend image that says (congratulations you've reached the end?) or smth like that but its not acc the end (also no level num, just use "?")
+-one level will be the path choice
+-Level that changes the google part of source code (maybe change the green comment around the google code - or there is none at all)
+-Discord Level (in the image somwehere is XXXXXX.com/[discord code] - source has the definition of discord
+-Hex Translation Level
+-Gothic Lolita Doctrine Level
+-Switch to act 2, image is still in act 1, change image to act 2 for answer --- "did i leave my image behind"
+-Fire exif
+-Chess notation
+-Country codes (w photo of a telephone), map out to follow route
+-Return to previous level to find a second image with the answer (like secondkey thing)
+-PDN File
+-Orange is the new black "#ffa500 is the new___"
+-Missing image (the html is wrong fix it)
+-number sequence. (12,6) (6,3) (100,?) answer is 10. hint, only 4 exhibits this property perfectly. more english than maths.
+-Enchanting table trasnaltes
+-silent audio turn up in audacity (hint: i cant hear you)
+-airport codes
+-level has photo of connect the dot on a map - somewhere in thte level is a (encrypted/cipher) link to a youtube video - video shows distorted/blurry/hard to see photos of landmarks/areas - connect them on map to spell out letters
+-Panama flag colouring hex codes rgb (or anny country but panama seems good)
+-Hexagon maze thing which spells out letters 
+-Paragraph with phonetic alphabet words that spell out a word
+-How many squares, refering to pixels 
+-7561 - one is right in the wrong position, 4792 - two are right in the wrong position, 1504 - one is right in the right position, 3102 - nothing is right, 6158 - two are right in the wrong position. ANSWER IS 9684.htm
+-Sideways matrix
+-[12, 6] // [6, 3] // [[729,?]] 
+-paragraph written entirely in symbols like stardew valley, needs to be translated
+-logic gates???
