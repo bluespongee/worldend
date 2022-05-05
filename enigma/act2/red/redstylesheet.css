@@ -1,0 +1,44 @@
+body {
+ background-color: black;
+}
+
+h1 {
+ color: white;
+ margin: 0;
+}
+
+h2 {
+ color: white;
+ margin: 0;
+}
+
+h3 {
+ color: white;
+ margin: 0;
+}
+
+p {
+ color: red;
+ margin: 0;
+}
+
+a {
+ color: red;
+}
+
+ul {
+ color: red;
+}
+
+.centre {
+ text-align: center;
+}
+
+.spoiler {
+ color: white;
+ background-color: white;
+}
+
+.spoiler:hover {
+ color: black;
+}
